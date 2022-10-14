@@ -29,7 +29,7 @@
 ### Edição
 
 - CTRL+Espaço (auto completar)
-- ALT+INSERT (criar construtor, get/set, etc.)
+- ALT+INSERT (criar construtor, get/set, etc.) no MAC: FN + CTRL + RETURN
 - CTRL+ALT+L (auto-indentação)
 - Settings/Preferences (Ctrl+Alt+S) -> Editor -> General -> Auto Import (Add unambiguous imports on the fly / Optimeze imports on the fly)
 
